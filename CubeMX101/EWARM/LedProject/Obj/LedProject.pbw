@@ -1,0 +1,506 @@
+[
+  {
+    "ID": "c:@htim1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim1",
+    "location": {
+      "column": "19",
+      "line": "43",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "htim1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim2",
+    "location": {
+      "column": "19",
+      "line": "44",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "htim2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "6",
+      "line": "51",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_GPIO_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_GPIO_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "52",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "MX_GPIO_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_TIM1_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_TIM1_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "53",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "MX_TIM1_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_TIM2_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_TIM2_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "54",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "MX_TIM2_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "68",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "6",
+      "line": "113",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_TIM1_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MX_TIM1_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "162",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "MX_TIM1_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_TIM2_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MX_TIM2_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "209",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "MX_TIM2_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_GPIO_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MX_GPIO_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "254",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\main.c"
+    },
+    "name": "MX_GPIO_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_MspInit(void)",
+    "location": {
+      "column": "6",
+      "line": "64",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_hal_msp.c"
+    },
+    "name": "HAL_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_Base_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_TIM_Base_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "90",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_hal_msp.c"
+    },
+    "name": "HAL_TIM_Base_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_Base_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_TIM_Base_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "129",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_hal_msp.c"
+    },
+    "name": "HAL_TIM_Base_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim1",
+    "location": {
+      "column": "26",
+      "line": "58",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "htim1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim2",
+    "location": {
+      "column": "26",
+      "line": "59",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "htim2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@NMI_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void NMI_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "70",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "NMI_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HardFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HardFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "85",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "HardFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MemManage_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MemManage_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "100",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "MemManage_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@BusFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void BusFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "115",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "BusFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UsageFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void UsageFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "130",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "UsageFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SVC_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SVC_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "145",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "SVC_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@DebugMon_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void DebugMon_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "158",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "DebugMon_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@PendSV_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void PendSV_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "171",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "PendSV_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SysTick_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SysTick_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "184",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "SysTick_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_UP_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_UP_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "205",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "TIM1_UP_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM2_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM2_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "219",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\stm32l5xx_it.c"
+    },
+    "name": "TIM2_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32l5xx.c@5715@macro@HSE_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HSE_VALUE",
+    "location": {
+      "column": "11",
+      "line": "120",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "HSE_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32l5xx.c@5849@macro@MSI_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "MSI_VALUE",
+    "location": {
+      "column": "11",
+      "line": "124",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "MSI_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32l5xx.c@5982@macro@HSI_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HSI_VALUE",
+    "location": {
+      "column": "11",
+      "line": "128",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "HSI_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SystemCoreClock",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SystemCoreClock",
+    "location": {
+      "column": "12",
+      "line": "180",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "SystemCoreClock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@AHBPrescTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "AHBPrescTable",
+    "location": {
+      "column": "18",
+      "line": "182",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "AHBPrescTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@APBPrescTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "APBPrescTable",
+    "location": {
+      "column": "18",
+      "line": "183",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "APBPrescTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@MSIRangeTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "MSIRangeTable",
+    "location": {
+      "column": "18",
+      "line": "184",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "MSIRangeTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemInit(void)",
+    "location": {
+      "column": "6",
+      "line": "208",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "SystemInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemCoreClockUpdate",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemCoreClockUpdate(void)",
+    "location": {
+      "column": "6",
+      "line": "262",
+      "path": "D:\\work_arm_project\\LedProject\\LedProject\\CubeMX101\\Core\\Src\\system_stm32l5xx.c"
+    },
+    "name": "SystemCoreClockUpdate",
+    "origin": "project_file",
+    "scope": null
+  }
+]
